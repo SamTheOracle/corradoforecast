@@ -1,0 +1,1 @@
+curl -v -F key1=value1 -F upload=@sample.csv localhost:8080 -o test.csv
